@@ -1,4 +1,4 @@
-# Advanced Pygame Clicker Game
+# Simple Pygame Clicker Game
 
 Welcome to the Advanced Pygame Clicker Game, an interactive clicker game built with Python's Pygame library. This game combines simple gameplay mechanics with the potential for upgrades and strategy, making it an engaging and fun experience.
 
