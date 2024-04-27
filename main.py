@@ -14,7 +14,7 @@ SCORE_COLOR = (255, 255, 255)
 FONT_SIZE = 32
 
 window = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Advanced Pygame Clicker Game")
+pygame.display.set_caption("Simple Pygame Clicker Game")
 
 font = pygame.font.Font(None, FONT_SIZE)
 
